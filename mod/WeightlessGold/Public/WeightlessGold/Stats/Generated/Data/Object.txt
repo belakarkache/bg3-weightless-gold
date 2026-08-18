@@ -1,0 +1,5 @@
+new entry "_Gold"
+type "Object"
+using "_BaseItem"
+data "Weight" "0"
+data "InventoryTab" "Misc"
