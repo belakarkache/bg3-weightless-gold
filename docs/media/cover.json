@@ -1,0 +1,12 @@
+{
+  "style": "bg3",
+  "align": "center",
+  "name": "Weightless Gold",
+  "tagline": "Gold no longer counts toward your carry weight.",
+  "tiles": [
+    {
+      "icon": "icons/weightless-gold.png",
+      "label": "Weight 0"
+    }
+  ]
+}
